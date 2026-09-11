@@ -23,7 +23,8 @@ Entra ID.<br />
 
 <p>
 <img width="1914" height="869" alt="image"
-src="https://github.com/user-attachments/assets/4c447cef-3001-4f61-9ffd-e24ca4af592d" />
+<img width="1920" height="854" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/f05feaac-1619-426d-8a93-15d8f5c83a87" />
+
 
 
   
@@ -35,7 +36,8 @@ Audit Logs of user Chris Walker.
 
 <p>
 <img width="1919" height="835" alt="image"
-src="https://github.com/user-attachments/assets/b63402b9-c8c4-4115-92e7-9c9768dadc53" />
+<img width="1920" height="669" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/2c718c24-5604-43e0-af20-90a240609fae" />
+
 
 
   
